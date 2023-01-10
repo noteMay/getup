@@ -1,6 +1,6 @@
 # getup
 
-起床打卡
+争取早起……
 
 - [睡觉打卡](https://github.com/noteMay/sleep)
 - [上班打卡](https://github.com/noteMay/clockin)
